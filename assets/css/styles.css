@@ -1,0 +1,17 @@
+.maincontainer {
+    display: flex; /* or inline-flex */
+    flex-direction: column ;
+    justify-content: center;
+}
+
+.headsection {
+    display: flex; /* or inline-flex */
+    flex-direction: row ;
+    justify-content: center;
+}
+
+.galeriasection {
+    display: flex; /* or inline-flex */
+    flex-direction: row ;
+    justify-content: space-around;
+}
